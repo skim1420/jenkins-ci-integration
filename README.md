@@ -3,5 +3,5 @@ Sample project with Jenkins CI integration
 
 Pushing to this repo kicks off a jenkins job on Google's computer in the sky.
 
-Test
 fir guggles
+for giggles too
